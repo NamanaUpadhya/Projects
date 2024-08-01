@@ -1,0 +1,22 @@
+/* .img{
+    background-image: url("Netflix-Hintergrund.webp");
+    background-size: cover;
+} */
+header{
+    display: flex;
+}
+.logo{
+    background-image: url("netflix_logo.jpg");
+    background-size:cover;
+    height: 50px;
+    width: 80px;
+    justify-content: center;
+    align-items: center;
+
+}
+.sign-in{
+    width: 1050px;
+    display: flex;
+    justify-content:end;
+    align-items:center;
+}
